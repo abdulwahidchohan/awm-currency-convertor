@@ -3,7 +3,7 @@ import inquirer from "inquirer";
 let currency = {
     USD: 1.00,
     PKR: 277.7,
-    Euro: 0.9225,
+    EURO: 0.9225,
     GBP: 0.791237,
     INR: 83.293847,
     AUS: 1.520073,
